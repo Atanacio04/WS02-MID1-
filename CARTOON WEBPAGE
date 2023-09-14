@@ -1,2 +1,177 @@
 # WS02-MID1
- CARTOONS WEBPAGE
+ CARTOONS WEBPAG
+
+
+html, 
+body{
+    background-image: url(../img/shadowgarden.jpeg);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+    background-attachment: fixed;
+    width: auto;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    }
+    header{
+        background-image: url(./Alexandria.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        border-radius: 10px;
+    padding: 40px;
+    text-align: center;
+    }
+    .fontspace{
+        line-height: 2px;
+        
+    }
+    h1{
+    font-size: 90px;
+    color: #D1D2D4;
+    }
+    h5{
+        font-size: 20px;
+        color: #D1D2D4;
+    }
+    header img{
+    border-radius: 174px;
+    width: 300px;
+    border: 24px solid #48414D;
+    }
+    .content{
+        border-radius: 10px; 
+        background-color: #48414D;
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    margin-left: auto;
+    margin right: auto ;
+    width: 180%;
+        background-color: # ;
+        color: #D1D2D4;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+    .content1{
+        background-position: center;
+        border-radius: 10px; 
+        background-color: #48414D;
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 500px;
+    margin-left: auto;
+    margin right: auto ;
+    width: 180%;
+        background-color: # ;
+        color: #D1D2D4;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+    .img1{
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin: auto;
+    width: auto;
+    }
+    .content2{
+        background-position: center;
+        border-radius: 10px; 
+        background-color: #48414D;
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    margin-left: auto;
+    margin right: auto ;
+    width: 180%;
+        background-color: # ;
+        color: #D1D2D4;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+    .img2{
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin: auto;
+        width: auto;
+    }
+    .content3{
+        background-position: center;
+        border-radius: 10px; 
+        background-color: #48414D;
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 100px;
+    margin-left: auto;
+    margin right: auto ;
+    width: 180%;
+        background-color: # ;
+        color: #D1D2D4;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    }
+    .img3{
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin: auto;
+        width: auto;
+
+    }
+    img.big-image{
+    
+    max-width: 100%;
+    }
+    .caption{
+        background-position: center;
+        border-radius: 10px; 
+        background-color: #48414D;
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    margin-left: auto;
+    margin right: auto ;
+    width: 180%;
+        background-color: # ;
+        color: #D1D2D4;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-size: 16px;
+    color: #D1D2D4;
+    font-style: italic;
+    }
+    .gif{
+        display: block;
+        padding-top: 40px;
+        padding-bottom: 40px;
+        margin: auto auto;
+        width: auto;
+    }
+    ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    }
+    a{
+    color: red;
+    text-decoration: none;
+    }
+    
+    footer{
+    margin-top: 20px;
+    padding: 40px 20px;
+    background-color: #E6E6E6;
+    }
+    footer ul{
+    text-align: center;
+    }
+    footer ul li{
+    display: inline-block;
+    margin: 0 5px;
