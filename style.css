@@ -1,7 +1,7 @@
 
 html, 
 body{
-    background-image: url(../img/shadowgarden.jpeg);
+    background-image: url(shadowgarden.jpeg);
     background-repeat: no-repeat;
     background-position: top center;
     background-size: 100%;
@@ -11,7 +11,7 @@ body{
     margin: 0;
     }
     header{
-        background-image: url(./Alexandria.jpg);
+        background-image: url(Alexandria.jpg);
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
